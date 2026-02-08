@@ -1,7 +1,10 @@
-# 🎮 Tic Tac Toe Game (Player vs Player & AI)
 
-A modern and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
-This project allows users to play either **Player vs Player** or **Player vs AI**, featuring smooth animations, win effects, and a clean UI.
+# 🎮 Tic Tac Toe Game
+
+This is a simple **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**.  
+I created this project to practice JavaScript logic, DOM manipulation, and basic UI design 💻✨
+
+The game supports both **Player vs Player** 👥 and **Player vs AI** 🤖 modes.
 
 ---
 
@@ -9,94 +12,65 @@ This project allows users to play either **Player vs Player** or **Player vs AI*
 
 - 🧑‍🤝‍🧑 Player vs Player mode  
 - 🤖 Player vs AI mode  
+- 🏆 Win detection  
+- 🤝 Draw detection  
+- 🔄 Restart game option  
 - 🎉 Confetti animation on winning  
-- 🤝 Draw detection with shake animation  
-- 🔄 Restart game functionality  
-- 🎨 Clean, dark-themed UI  
-- ⚡ Fast and responsive gameplay  
+- 🌙 Clean dark-theme UI  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the game  
-- **CSS3** – Styling, animations, and effects  
-- **JavaScript (ES6)** – Game logic and AI behavior  
+- 🧱 HTML  
+- 🎨 CSS  
+- ⚙️ JavaScript  
 
 ---
 
 ## 📂 Project Structure
 
-```
 
-tic-tac-toe/
-│
-├── index.html      # Main HTML file
-├── style.css       # Styling and animations
-├── script.js       # Game logic and AI
-└── README.md       # Project documentation
 
-````
 
 ---
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sreepriya190307/tic-tac-toe.git
-````
+1. 📥 Download or clone this repository  
+2. 📂 Open the project folder  
+3. 🌐 Open `index.html` in any web browser  
 
-2. Open the project folder:
-
-   ```bash
-   cd tic-tac-toe
-   ```
-
-3. Open `index.html` in any modern browser
-   ✔ No additional setup required
+✔ No additional setup required
 
 ---
 
-## 🎯 How to Play
+## 🎯 How the Game Works
 
-1. Select a game mode:
-
-   * **Player vs Player**
-   * **Player vs AI**
-2. Player **X** starts first
-3. Click on an empty cell to place your mark
-4. Get **three in a row** (horizontal, vertical, or diagonal) to win
-5. Click **Restart** to play again
+- ❌ Player **X** always starts first  
+- 👉 Players take turns clicking empty cells  
+- 🧠 The game checks for win or draw after each move  
+- 🤖 In AI mode, the computer plays as **O**  
+- 🔄 Click **Restart** to play again  
 
 ---
 
-## 🧠 AI Logic
+## 📚 What I Learned
 
-* The AI plays as **Player O**
-* Makes random valid moves
-* Automatically triggered after Player X’s turn
-
----
-
-
-
-## 🚀 Future Enhancements
-
-* Smarter AI using Minimax algorithm
-* Scoreboard and match history
-* Sound effects
-* Mobile-first UI improvements
+- 🧠 JavaScript game logic  
+- 🖱️ Handling user interactions  
+- 🔗 Working with DOM elements  
+- 🎨 Using CSS animations for better UI  
 
 ---
 
 ## 👩‍💻 Author
 
-**Sree Priya SV**
-Web Development Intern
+**Sree Priya SV**  
+Web Development Intern  
 
-* GitHub: [https://github.com/sreepriya190307]
-* LinkedIn: [https://www.linkedin.com/in/sree-priya-sv-947a483aa]
+🔗 GitHub: https://github.com/sreepriya190307 
+🔗 LinkedIn: https://www.linkedin.com/in/sree-priya-sv 
 
 ---
 
