@@ -47,13 +47,7 @@ tic-tac-toe/
    git clone https://github.com/sreepriya190307/tic-tac-toe.git
 ````
 
-2. Open the project folder:
-
-   ```bash
-   cd tic-tac-toe
-   ```
-
-3. Open `index.html` in any modern browser
+2. Open `index.html` in any modern browser
    ✔ No additional setup required
 
 ---
