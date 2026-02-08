@@ -73,16 +73,6 @@ tic-tac-toe/
 
 ---
 
-## 📸 Screenshots
-
-
-
-<img width="1920" height="719" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/a6bd69db-7cf9-4d30-a98e-77be6b9f58f9" />
-
-<img width="1920" height="751" alt="Screenshot 2026-02-06 162242" src="https://github.com/user-attachments/assets/de210e0e-59e1-47c7-870c-95251e2e7b78" />
-
-<img width="1920" height="781" alt="Screenshot 2026-02-06 162335" src="https://github.com/user-attachments/assets/1c305ea3-ccff-48c5-87c7-f6cdd88c09d2" />
-
 ## 🚀 Future Enhancements
 
 * Smarter AI using Minimax algorithm
