@@ -47,7 +47,13 @@ tic-tac-toe/
    git clone https://github.com/sreepriya190307/tic-tac-toe.git
 ````
 
-2. Open `index.html` in any modern browser
+2. Open the project folder:
+
+   ```bash
+   cd tic-tac-toe
+   ```
+
+3. Open `index.html` in any modern browser
    ✔ No additional setup required
 
 ---
@@ -73,6 +79,8 @@ tic-tac-toe/
 
 ---
 
+
+
 ## 🚀 Future Enhancements
 
 * Smarter AI using Minimax algorithm
@@ -87,10 +95,8 @@ tic-tac-toe/
 **Sree Priya SV**
 Web Development Intern
 
-* GitHub: [https://github.com/sreepriya190307](https://github.com/sreepriya190307)
-* LinkedIn: [https://www.linkedin.com/in/sree-priya-sv-947a483aa](https://www.linkedin.com/in/sree-priya-sv-947a483aa)
+* GitHub: [https://github.com/sreepriya190307]
+* LinkedIn: [https://www.linkedin.com/in/sree-priya-sv-947a483aa]
 
 ---
-
-
 
