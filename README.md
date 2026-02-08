@@ -77,12 +77,11 @@ tic-tac-toe/
 
 
 
-<img width="1920" height="719" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ab9c4013-3ae1-46a8-9cb6-b5c54dfb52b8" />
+<img width="1920" height="719" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/a6bd69db-7cf9-4d30-a98e-77be6b9f58f9" />
 
+<img width="1920" height="751" alt="Screenshot 2026-02-06 162242" src="https://github.com/user-attachments/assets/de210e0e-59e1-47c7-870c-95251e2e7b78" />
 
-<img width="1920" height="751" alt="Screenshot 2026-02-06 162242" src="https://github.com/user-attachments/assets/8a6bb435-518a-4680-a13c-b779a5a60f82" />
-
-<img width="1920" height="781" alt="Screenshot 2026-02-06 162335" src="https://github.com/user-attachments/assets/902c2305-f1cd-43e3-899f-eb311fe85585" />
+<img width="1920" height="781" alt="Screenshot 2026-02-06 162335" src="https://github.com/user-attachments/assets/1c305ea3-ccff-48c5-87c7-f6cdd88c09d2" />
 
 ## 🚀 Future Enhancements
 
